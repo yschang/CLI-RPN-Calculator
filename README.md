@@ -8,7 +8,7 @@ I chose Java as a programming language because it is what I am most comfortable 
 
 
 ## Trade-offs, or What I Might Do Differently If I Spend Additional Time
-If I were to spend additional time on the project, I would have definitely created a list of test cases and run those test cases to fix any bug that I haven't found.
+If I were to spend additional time on the project, I would have definitely come up with more hardcore test cases and run those test cases to fix any bug that I haven't found.
 
 
 ## How To Run The Code
