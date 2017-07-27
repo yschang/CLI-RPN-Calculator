@@ -7,7 +7,7 @@ This Java program uses the Scanner class in the while loop to prompt the input f
 I chose Java as a programming language because it is what I am most comfortable with. Also, it is object-oriented, so it allows me to use reuseable code in my program, such as isDouble, isOperator, pushToEvalStack, and evaluateTopTwo functions.
 
 
-## Trade-offs, or what I might do differently if I were to spend additional time on the project
+## Trade-offs, or what I might do differently if I spend additional time
 If I were to spend additional time on the project, I would have definitely create a list of test cases and run those test cases to fix any bug that I haven't found.
 
 
